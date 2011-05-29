@@ -18,12 +18,31 @@
 				  [UIImage imageNamed:@"hdcs_issue_115b.jpg"],
 				  [UIImage imageNamed:@"hdcs_issue_116a.jpg"],
 				  [UIImage imageNamed:@"hdcs_issue_116b.jpg"],
+				  [UIImage imageNamed:@"issue_110a.jpg"],
+				  [UIImage imageNamed:@"issue_110b.jpg"],
+				  [UIImage imageNamed:@"issue_111a.jpg"],
+				  [UIImage imageNamed:@"issue_111c.jpg"],
+				  [UIImage imageNamed:@"issue_112a.jpg"],
+				  [UIImage imageNamed:@"issue_112b.jpg"],
+				  [UIImage imageNamed:@"issue_112c.jpg"],
+				  [UIImage imageNamed:@"issue_113a.jpg"],
+				  [UIImage imageNamed:@"issue_113b.jpg"],
+				  [UIImage imageNamed:@"issue_114a.jpg"],
+				  [UIImage imageNamed:@"issue_114b.jpg"],
+				  [UIImage imageNamed:@"issue_114c.jpg"],
 				  [UIImage imageNamed:@"issue_24.jpg"],
 				  [UIImage imageNamed:@"issue_26.jpg"],
 				  [UIImage imageNamed:@"issue_27.jpg"],
-                  
-                  
-                  
+				  [UIImage imageNamed:@"issue_31.jpg"],
+				  [UIImage imageNamed:@"issue_35.jpg"],
+				  [UIImage imageNamed:@"issue_37.jpg"],
+				  [UIImage imageNamed:@"issue_39.jpg"],
+				  [UIImage imageNamed:@"issue_40.jpg"],
+				  [UIImage imageNamed:@"issue_41b.jpg"],
+				  [UIImage imageNamed:@"issue_42.jpg"],
+				  [UIImage imageNamed:@"issue_43.jpg"],
+				  [UIImage imageNamed:@"issue_47.jpg"],
+				  [UIImage imageNamed:@"issue_61.jpg"],
 				  nil];
     }
     return self;
